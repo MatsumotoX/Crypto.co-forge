@@ -238,9 +238,6 @@
         <img class="img-arbit img-responsive" src="images/others/20676801_10213916273839393_1168905799_o3.png" alt="" />
       </div>
     </div>
-
-
-
   </div>
 
   <div id="arbot">
@@ -669,6 +666,7 @@
         </div>
       </div>
     </div>
+  </div>
     <!--/#features-->
 
     <div id="product-details">
@@ -717,7 +715,6 @@
 
 
     <div id="pricing-section" class="parallax-section">
-
       <div class="">
         <div class="row">
           <div class="col-xs-6 col-md-3 text-center ">
@@ -774,16 +771,8 @@
           </div>
         </div>
       </div>
-
-
-
-
-
     </div>
-  </div>
-  </div>
-  </div>
-  </div>
+ 
   <!--/#pricing-section-->
 
 
@@ -974,18 +963,21 @@
     </div>
     <!--/#instructor-->
   </div>
-  </div>
+  
   <!--/#instructor-->
 
   <footer id="contact-us">
     <div class="container">
       <div class="padding contact-content text-center">
+
         <div class="row section-title">
           <div class="col-sm-8 col-sm-offset-2">
             <h1 class="pitch-section-title">Contact Us</h1>
           </div>
         </div>
+        
         <div class="row">
+
           <div class="col-sm-4 contact-info">
             <i class="fa fa-map-marker"></i>
             <h3>Bangkok</h3>
@@ -994,18 +986,21 @@
               <br> (BTS Wongwian Yai)
               <br> 110/1, Krung Thonburi Road, 10600</p>
           </div>
+
           <div class="col-sm-4 contact-info">
             <i class="fa fa-envelope"></i>
             <h3>Email</h3>
             <h3 href="mailto:info@cryptovation.co" target="_top">info@cryptovation.co</h3>
           </div>
+
           <div class="col-sm-4 contact-info">
             <i class="fa fa-briefcase"></i>
             <h3>Singapore</h3>
             <p class="fa-briefcase2">22, Sin Ming Lane #06-76,
               <br> Midview City, 573969
+              </p>
           </div>
-          </p>
+          
         </div>
       </div>
     </div>

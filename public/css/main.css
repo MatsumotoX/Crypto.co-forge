@@ -74,6 +74,10 @@ body {
 	background-color: rgba(255, 255, 255, 0);
 }
 
+.navbar-term {
+	background-color: rgb(0, 0, 0);
+}
+
 .navbar-brand>img.image-brand-second {
 	display: none;
 }
@@ -109,6 +113,8 @@ body {
 .navbar-bg-toggle {
 	background-color: black;
 }
+
+
 
 /*================Navbar==============*/
 
@@ -1335,8 +1341,10 @@ h6 p {
 /*=========Word For LearnCastel==========*/
 
 #comments-carousel>h1 {
+	margin-top: 50px;
 	margin-bottom: 50px;
-	margin-top: 0;
+	font-weight: 1000;
+    font-size: 30px;
 }
 
 #comments-carousel>h1 span {
@@ -1534,3 +1542,4 @@ h6 p {
 .btn btn-primary2{
 	font-size: 15px;
 } */
+
