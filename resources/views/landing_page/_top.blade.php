@@ -41,7 +41,7 @@
                   </div>
 
                   <div class="form-group">
-                    <input type="tel" name="MERGE3" id="MERGE3" class="form-control" placeholder="Phone Numbers">
+                    <input type="tel" name="MERGE3" id="MERGE3" class="form-control" placeholder="Phone Number">
                   </div>
                   <div class="form-group">
                     <button type="submit" class="btn btn-primary3">Subscribe</button>

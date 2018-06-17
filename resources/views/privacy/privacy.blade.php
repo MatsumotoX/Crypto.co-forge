@@ -3,6 +3,8 @@
 
     @include('term._script2')
 
+     @include('landing_page._meta')
+
 </head>
     <!-- Begin Header -->
     <header>
