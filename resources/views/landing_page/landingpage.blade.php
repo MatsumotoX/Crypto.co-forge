@@ -18,7 +18,8 @@
 
     @include('landing_page._meta')
 
-	@include('landing_page._script')
+    @include('landing_page._script')
+    
 </head>
 
 <body class="royal_preloader background-white" data-spy="scroll" data-target=".navbar" data-offset="70">
@@ -28,6 +29,9 @@
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KHQLFJM"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
+
+
+    @include('landing_page._popup')  
 
     @include('landing_page._navbar')
 

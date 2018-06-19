@@ -1,6 +1,14 @@
 jQuery(function($) {
   "use strict";
 
+  /*================Popup==============*/
+
+  $(window).load(function() {
+    $("#onload").modal("show");
+  });
+
+  /*================Popup2 end==============*/
+
   $(window).scroll(function(event) {
     var scroll = $(window).scrollTop();
     if (scroll > 0) {
@@ -33,9 +41,15 @@ jQuery(function($) {
   (function() {
     $("#main-slider-wrapper #slider-section").vegas({
       slides: [
-        { src: "images/slider/1.jpg" },
-        { src: "images/slider/2.jpg" },
-        { src: "images/slider/3.jpg" }
+        {
+          src: "images/slider/1.jpg"
+        },
+        {
+          src: "images/slider/2.jpg"
+        },
+        {
+          src: "images/slider/3.jpg"
+        }
       ]
     });
   })();
@@ -64,7 +78,9 @@ jQuery(function($) {
       },
       type: "image"
     });
-    $(".video-link").magnificPopup({ type: "iframe" });
+    $(".video-link").magnificPopup({
+      type: "iframe"
+    });
   })();
 
   // ----------------------------------------------
@@ -107,23 +123,49 @@ jQuery(function($) {
     var styles = [
       {
         featureType: "road",
-        stylers: [{ color: "#000000" }]
+        stylers: [
+          {
+            color: "#000000"
+          }
+        ]
       },
       {
         featureType: "landscape",
-        stylers: [{ color: "#141414" }]
+        stylers: [
+          {
+            color: "#141414"
+          }
+        ]
       },
       {
         elementType: "labels.text.fill",
-        stylers: [{ color: "#808080" }]
+        stylers: [
+          {
+            color: "#808080"
+          }
+        ]
       },
       {
         featureType: "poi",
-        stylers: [{ color: "#161616" }]
+        stylers: [
+          {
+            color: "#161616"
+          }
+        ]
       },
       {
         elementType: "labels.text",
-        stylers: [{ saturation: 1 }, { weight: 0.1 }, { color: "#7f8080" }]
+        stylers: [
+          {
+            saturation: 1
+          },
+          {
+            weight: 0.1
+          },
+          {
+            color: "#7f8080"
+          }
+        ]
       }
     ];
 
