@@ -62,7 +62,7 @@
               <span class="ico">CryptovationX</span> Projects</div>
             <p class="textblue">CryptovationX is Robo-advisory Platform for Cryptoasset Investment and ‘Wealth for All’ Initiative
               <br>
-              <a href="https://cryptovationx.io/" class="crypto-btn">
+              <a href="https://cryptovationx.io/" class="crypto-btn" target="_blank">
                 Get Token
               </a>
             </p>
