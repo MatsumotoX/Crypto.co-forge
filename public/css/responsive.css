@@ -1,17 +1,24 @@
-@media (min-width: 1199px) and (max-width: 1699px){
+@media (min-width: 1199px) and (max-width: 1920px){
 	.modal-content{
-		padding-top:40px;
-		padding-bottom: 40px;
+		padding-top: 3.5rem;
+    	padding-bottom: 4.5rem;
+	}
+
+	.popupcontent2 {
+		margin-top: 4rem;
 	}
 
 	.testHover{
-		margin-top:30px;
-		height: 5.8rem;
+		margin-top:2.5rem;
+		height: 7.8rem;
 	}
 
-	.testHover2{
-		height: 5.8rem;
+	.close{
+		margin-right:2rem;
+		margin-top:-2rem;
 	}
+
+	
 
 }
 
@@ -142,13 +149,23 @@
 		margin-top: 80px;
 	}
 
+	.modal-content{
+		padding-top: 20px;
+    	padding-bottom: 35px;
+	}
+
+	.popupcontent2 {
+		margin-top: 4rem;
+	}
+
 	.testHover{
-		margin-top:30px;
+		margin-top:2.5rem;
 		height: 3.8rem;
 	}
 
-	.testHover2{
-		height: 3.8rem;
+	.close{
+		margin-right:2rem;
+		margin-top:-1.5rem;
 	}
 
 	
@@ -205,12 +222,17 @@
 	}
 
 	.popupcontent2 {
-		margin-top: 5rem;
+		margin-top: 2.5rem;
 	}
 
 	.testHover{
-		margin-top:30px;
+		margin-top:1.5rem;
 		height: 3.8rem;
+	}
+
+	.close{
+		margin-right:1.5rem;
+		margin-top:-1rem;
 	}
 
 	.testHover2{
@@ -352,6 +374,19 @@
 	.navbar-fixed-top .navbar-collapse {
 		padding-right: 0px;
 		padding-left: 0px;
+	}
+
+	.popupcontent2 {
+		margin-top: 3rem;
+	}
+
+	.testHover{
+		margin-top:3rem;
+		height: 5.8rem;
+	}
+
+	.close{
+		margin-right: 10px;
 	}
 
 	.navfont{
@@ -546,6 +581,14 @@
 
 	.popupcontent2 {
 		margin-top: 2rem;
+	}
+
+	.testHover{
+		margin-top:20px;
+	}
+
+	.close{
+		margin-right: 10px;
 	}
 
 	.header {

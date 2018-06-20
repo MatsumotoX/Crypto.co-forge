@@ -7,6 +7,10 @@ jQuery(function($) {
     $("#onload").modal("show");
   });
 
+  /*================Popup2==============*/
+
+  // $("#ModalCardOpen").modal("show");
+
   /*================Popup2 end==============*/
 
   $(window).scroll(function(event) {
