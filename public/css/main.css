@@ -164,7 +164,7 @@ body {
 }
 
 .testHover {
-    background-image: url('../images/popup/button_L.png');
+    background-image: url('../images/popup/buttonL.png');
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: center center;
@@ -173,11 +173,11 @@ body {
 	margin-top:5px;
   }
   .testHover:hover {
-    background-image: url('../images/popup/button_L_Hover.png');
+    background-image: url('../images/popup/buttonLHover.png');
   }
 
   .testHover2 {
-    background-image: url('../images/popup/button_R.png');
+    background-image: url('../images/popup/buttonR.png');
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: center center;
@@ -185,7 +185,7 @@ body {
 	height: 2.8rem;
   }
   .testHover2:hover {
-    background-image: url('../images/popup/button_R_Hover.png');
+    background-image: url('../images/popup/buttonRHover.png');
   }
   .btn-transparent {
     background: transparent;
