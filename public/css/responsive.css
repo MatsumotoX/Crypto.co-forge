@@ -385,6 +385,10 @@
 		height: 5.8rem;
 	}
 
+	.modal-content{
+		background-image: url(../images/popup/Background2.png);
+	}
+
 	.close{
 		margin-right: 10px;
 	}

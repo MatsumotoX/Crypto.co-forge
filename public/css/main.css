@@ -62,7 +62,6 @@ body {
 .navfont {
 	color: rgb(18, 157, 212) !important;
 	font-weight: bolder;
-	
 }
 
 .nav-padding {
@@ -138,6 +137,7 @@ body {
 	padding-bottom: 20px;
 	background-repeat: no-repeat;
 	background-image: url(../images/popup/Background.png);
+	background-size: 100%;
 	border-radius: 30px;
 	border: 0;
 }
@@ -343,7 +343,6 @@ ul {
 	outline-offset: 0;
 	text-decoration: none;
 	background: transparent;
-	
 }
 
 a {
