@@ -29,7 +29,7 @@
             <a class="navfont" href="#ourico">ICO</a>
           </li>
           <li>
-            <a class="navfont" href="#arbot">Arbot</a>
+            <a class="navfont" href="https://arbot.cryptovation.co">Arbot</a>
           </li>
           <li>
             <a class="navfont" href="#oneway">One-way Table</a>

@@ -5,12 +5,12 @@
       <div class="row main-slider">
         <div class="col-sm-6">
           <div class="slider-content">
-            <h2 class="pitch-section-title" style="font-size:192%; color: #f7941d;">Robo-Advisory Investment</h2>
-            <h1 class="header-text">
+            <h2 class="pitch-section-title robo-top" style="font-size:192%;">Robo-advisory Investment</h2>
+            <h1 class="header-text cryptovation">
               CRYPTO
-              <span style="color: #2d9cff;">VATION</span>
+              <span style="color: #0077ee;">VATION</span>
             </h1>
-            <p class="weuse ">We use the quantitative analysis to recommend you the most profitable with low risk trading opportunities in
+            <p class="weuse ">we uses the quantitative analysis to recommend you the most profitable strategy with low risk trading opportunities in
               cryptocurrencies.
           </div>
         </div>
@@ -23,17 +23,21 @@
               <input type="hidden" name="u" value="78fbd1f931e5117ea7ecbabd6">
               <input type="hidden" name="id" value="52b60635f8">
               <h3 style="font-size:165%;">
-                <b>Subscribe now! Get free service!</b>
+                <b>Subscribe to get free service</b>
               </h3>
               <div class="registration-form">
                 <form id="registration-form" name="registration-form" method="post" action="#">
 
                   <div class="form-group">
-                    <input type="text" name="MERGE1" id="MERGE1" class="form-control" required="required" placeholder="First Name">
+                    <input type="text" name="MERGE1" id="MERGE1" class="form-control" required="required" placeholder="Full Name">
                   </div>
 
                   <div class="form-group">
-                    <input type="text" name="MERGE2" id="MERGE2" class="form-control" required="required" placeholder="Last Name">
+                    <input type="text" name="MERGE2" id="MERGE2" class="form-control" required="required" placeholder="Company">
+                  </div>
+
+                  <div class="form-group">
+                    <input type="text" name="MERGE3" id="MERGE3" class="form-control" required="required" placeholder="Position">
                   </div>
 
                   <div class="form-group">
@@ -41,7 +45,7 @@
                   </div>
 
                   <div class="form-group">
-                    <input type="tel" name="MERGE3" id="MERGE3" class="form-control" placeholder="Phone Number">
+                    <input type="tel" name="MERGE4" id="MERGE4" class="form-control" placeholder="Phone Number">
                   </div>
                   <div class="form-group">
                     <button type="submit" class="btn btn-primary3">Subscribe</button>
@@ -56,21 +60,7 @@
           </div>
         </div>
 
-        <div id="ourico" class="col-sm-12">
-          <div class="register-section2">
-            <div class="title">Our
-              <span class="ico">CryptovationX</span> Projects</div>
-            <p class="textblue">CryptovationX is Robo-advisory Platform for Cryptoasset Investment and ‘Wealth for All’ Initiative
-              <br>
-              <a href="https://cryptovationx.io/" class="crypto-btn" target="_blank">
-                Get Token
-              </a>
-            </p>
-
-
-          </div>
-
-        </div>
+        
 
 
 

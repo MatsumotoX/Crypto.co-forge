@@ -1,4 +1,10 @@
-@media (min-width: 1199px) and (max-width: 1920px){
+
+/* lg */
+@media (min-width: 1199px) {
+	html, body{
+		width: 100%
+	}
+
 	.modal-content{
 		padding-top: 3.5rem;
     	padding-bottom: 4.5rem;
@@ -17,15 +23,13 @@
 		margin-right:2rem;
 		margin-top:-2rem;
 	}
-
 	
+	.text, .title21{
+		width: 700px;
+	}
 
-}
-
-/* lg */
-@media (min-width: 1199px) {
-	html, body{
-		width: 100%
+	#market-price, .product-info{
+		margin-left: 5%;
 	}
 
 	.modal-dialog{
@@ -65,7 +69,7 @@
 
 	.product-info{
 		margin-left: 80px;
-		width: 120%;
+		width: 135%;
 		padding-top: 100px;
 	}
 
@@ -106,7 +110,7 @@
 	}
 
 	.product-container {
-		background: #0678AF;
+		background: #44b6ef;
 		max-height: 400px;
 	}
 	.product-info{
@@ -115,7 +119,6 @@
 		padding-top: 70px;
 
 	}
-
 
 	.col-2 {width: 16.66%;}
 
@@ -149,6 +152,16 @@
 		margin-top: 80px;
 	}
 
+	ul{
+		padding-left:10px !important;
+	}
+
+	#description {
+		background-position-x: 245px;
+	}
+
+	
+
 	.modal-content{
 		padding-top: 20px;
     	padding-bottom: 35px;
@@ -171,7 +184,7 @@
 	
 
 	.product-container {
-		background: #0678AF;
+		background: #44b6ef;
 		max-height: 400px;
 	}
 
@@ -225,6 +238,15 @@
 		margin-top: 2.5rem;
 	}
 
+	#description {
+		background-position-x: 175px;
+	}
+
+	ul{
+		padding-left:5px;
+		padding-right: 5px;
+	}
+
 	.testHover{
 		margin-top:1.5rem;
 		height: 3.8rem;
@@ -275,11 +297,11 @@
 	.product-info{
 		margin-left: 15px;
 		width: 110%;
-		padding-top: 40px;
+		padding-top: 60px;
 	}
 
 	.product-container{
-		background: #0678AF;
+
 		max-height: 500px;
 	  }
 	h2 {
@@ -329,7 +351,7 @@
 	}
 	.main-slider .slider-content{
 		font-size:18px;
-		margin-top: 130px;
+		margin-top: 200px;
 	}
 	.main-slider .slider-content h1 {
 		font-size:40px;
@@ -566,7 +588,7 @@
 		padding: 30px 0px 20px;
 	}
 	.product-container{
-		background: #0678AF;
+
 		max-height: 800px;
 	  }
 /* 
@@ -581,6 +603,10 @@
 @media (max-width: 479px) {
 	html, body{
 		width: 100%
+	}
+
+	ul{
+		padding-left:0px !important;
 	}
 
 	.popupcontent2 {
@@ -679,7 +705,7 @@
 	  }
 
 	  .product-container{
-		background: #0678AF;
+
 		max-height: 800px;
 	  }
 	  
@@ -746,6 +772,10 @@
 
 	.howto{
 		margin-top: 80px;
+	}
+
+	.ico{
+		font-size: 29px;
 	}
 
 }

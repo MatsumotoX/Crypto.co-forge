@@ -36,8 +36,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     @include('landing_page._navbar')
 
     @include('landing_page._top')
-	
-	@include('landing_page._arbitrage')
 
     @include('landing_page._arbot')
     

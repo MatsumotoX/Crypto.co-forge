@@ -10,8 +10,7 @@
           <div class="col-sm-4 contact-info">
             <i class="fa fa-line-chart"></i>
             <h3>High Return</h3>
-            <p>Cryptovation's Arbitraging Strategies have been proven by 6-month-forward testing that has guaranteed ~20%/month
-              profit.
+            <p>Cryptovation's Arbitraging Strategies have been proven by 6-month-forward testing that has guaranteed ~20% profit per month.
             </p>
           </div>
 
@@ -23,7 +22,7 @@
           <div class="col-sm-4 contact-info">
             <i class="fa fa-clock-o"></i>
             <h3>Fast</h3>
-            <p>All the prices is in real time and only efficient cryptocurrencies and exchanges will be selected.</p>
+            <p>All the price is in real time and only efficient cryptocurrencies and exchanges will be selected.</p>
           </div>
         </div>
       </div>

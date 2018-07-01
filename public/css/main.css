@@ -60,8 +60,9 @@ body {
 
 #navigation,
 .navfont {
-	color: rgb(18, 157, 212) !important;
-	font-weight: bolder;
+	color: #0077ee !important;
+	font-weight: 900;
+	font-size: 1.7rem;
 }
 
 .nav-padding {
@@ -250,7 +251,7 @@ body {
 	color: #000;
 	margin-right: 0px;
 	margin-left: 0px;
-	margin-top: 15px;
+	margin-top: 50px;
 }
 
 #pricing-section .section-title h1 {
@@ -335,6 +336,8 @@ ul {
 	list-style: none;
 	margin: 0;
 	padding: 0;
+	padding-left: 3rem;
+	padding-right: 3rem;
 }
 
 .navbar-nav li a:hover,
@@ -410,15 +413,16 @@ h6 p {
 }
 
 .section-title {
-	margin-bottom: 10px;
+	margin-bottom: 0px;
 	padding-bottom: 10px;
 	text-align: center;
 	font-weight: 400;
+	line-height: 30px;
 }
 
 .section-title h1 {
-	margin-top: 10px;
-	margin-bottom: 15px;
+	margin-top: 0px;
+	margin-bottom: 2s0px;
 }
 
 .btn-primary {
@@ -604,11 +608,14 @@ h6 p {
 	background: linear-gradient(to top, #00c2f3b2, #0069f2);
 	color: #fff;
 	border-radius: 20px;
-	margin-bottom: 50px;
+	margin-bottom: 60px;
 	margin-top: 30px;
 }
 
 .register-section2 {
+	background-image: url(../images/slider/back17.jpg);
+	background-size: cover;
+	/* background: linear-gradient(to bottom, #00c2f3b2, #0069f2); */
 	border: 2px solid #52e0ff;
 	border-radius: 20px;
 	padding-left: 30px;
@@ -619,7 +626,7 @@ h6 p {
 }
 
 .register-section3 {
-	border: 4px solid #1d3277;
+	border: 4px solid #44b6ef;
 	border-radius: 20px;
 	padding-left: 30px;
 	padding-right: 30px;
@@ -703,7 +710,7 @@ h6 p {
 }
 
 #slider-section .overlay-bg {
-	background: url('../images/slider/back9.jpg') no-repeat center center;
+	background: url('../images/slider/back11.jpg') no-repeat center center;
 	background-size: cover;
 }
 
@@ -714,7 +721,7 @@ h6 p {
 	left: 0;
 	bottom: 0;
 	right: 0;
-	background-color: rgba(19, 19, 22, 0.719);
+	background-color: rgba(100, 200, 243, 0.25);
 }
 
 .main-slider .slider-content {
@@ -809,8 +816,18 @@ h6 p {
 	text-align: center;
 }
 
+.robo-top {
+	margin-bottom: 0px;
+	color: #f7941d;
+}
+
+.cryptovation {
+	margin-top: 0px;
+}
+
 .ico {
-	color: #8ad2fe;
+	color: #2d9cff;
+	font-size:32px;
 }
 
 .weuse {
@@ -825,6 +842,7 @@ h6 p {
 	color: #2d9cff;
 	margin-bottom: 0px;
 	line-height: 30px;
+	font-weight: 300;
 }
 
 .prototype-btn {
@@ -850,7 +868,7 @@ h6 p {
 
 .crypto-btn {
 	text-transform: uppercase;
-	max-width: 200px;
+	max-width: 220px;
 	font-size: 18px;
 	font-weight: 900;
 	letter-spacing: 1px;
@@ -870,7 +888,14 @@ h6 p {
 	position: relative;
 }
 
-.title2 {
+.title21 {
+	color: rgb(2, 8, 39);
+	letter-spacing: -1px;
+	font-size: 28px;
+	font-weight: 700;
+}
+
+.title22 {
 	color: rgb(2, 8, 39);
 	letter-spacing: -1px;
 	font-size: 28px;
@@ -885,6 +910,7 @@ h6 p {
 	font-weight: bolder;
 	color: rgba(0, 0, 0, 0.685);
 	font-size: 20px;
+	font-weight: 300;
 }
 
 /*=========Carousel Fade==========*/
@@ -922,10 +948,10 @@ h6 p {
 /*=========Arbot Robo-Advisory===========*/
 
 #arbot {
-	background-color: #0d0d0e;
+	background-color: #ffffff;
 	z-index: 1;
-	color: #fff;
-	height: 340px;
+	color: rgba(29, 28, 28, 0.829);
+	margin-top: 50px;
 }
 
 #onewayback {
@@ -1013,13 +1039,14 @@ h6 p {
 /*=========course-description==========*/
 
 #description {
-	background-color: #0d0d0e;
+	background-color: #44b6ef;
 	background-image: url(../images/others/29893208_10214028626602702_376217561_o.png);
 	background-position: right top;
-	background-position-x: 338px;
+	background-position-x: 580px;
 	margin-right: 200px;
 	color: #fff;
 	z-index: -1;
+	background-size: contain;
 }
 
 .description-section {
@@ -1109,7 +1136,7 @@ h6 p {
 }
 
 .product-container {
-	background: #0678AF;
+	background: #44b6ef;
 	max-height: 500px;
 }
 

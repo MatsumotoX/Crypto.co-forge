@@ -23,10 +23,10 @@
     <div class="col-sm-5">
       <div class="product-info">
         <!-- <h1>How To Start?</h1> -->
-        <div class="title2 howto" style="color: white;">How To Start? </div>
+        <div class="title22 howto" style="color: white;">How To Start? </div>
         <br>
         <br>
-        <p class="textblue" style="color: white; font-size: 17px;">We will guide you the steps to register, trade and invest each markets</p>
+        <p class="textblue" style="color: white; font-size: 17px;">we will guide you the steps to register, trade and invest each markets</p>
         <br>
         <p class="textblue" style="color: white;font-size: 17px;">We collect all the ‘How To’ register, trade and invest in different markets for you in one website</p>
       </div>

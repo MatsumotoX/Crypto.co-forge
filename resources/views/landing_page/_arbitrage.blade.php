@@ -3,7 +3,7 @@
       <div class="col-sm-6 col-sm-push-6">
         <div class="padding-md">
           <h1 class="pitch-section-title">Arbitrage Trading Calculation </h1>
-          <h2 class="text">We let you calculate your initial funds for your arbitrage trading </h2>
+          <h2 class="text">we let you calculate your initial funds for your arbitrage trading </h2>
         </div>
       </div>
       <div class="col-sm-6 col-sm-pull-6">
