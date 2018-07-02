@@ -60,8 +60,8 @@ body {
 
 #navigation,
 .navfont {
-	color: #0077ee !important;
-	font-weight: 900;
+	color:white !important;
+	font-weight: 300;
 	font-size: 1.7rem;
 }
 
@@ -113,7 +113,7 @@ body {
 }
 
 .navbar-bg-toggle {
-	background-color: black;
+	background-color: #1d2c4a;
 }
 
 /*================Popup==============*/
@@ -613,10 +613,10 @@ h6 p {
 }
 
 .register-section2 {
-	background-image: url(../images/slider/back17.jpg);
+	background-color: #324263;
 	background-size: cover;
 	/* background: linear-gradient(to bottom, #00c2f3b2, #0069f2); */
-	border: 2px solid #52e0ff;
+	/* border: 2px solid #52e0ff; */
 	border-radius: 20px;
 	padding-left: 30px;
 	padding-right: 30px;
@@ -710,7 +710,7 @@ h6 p {
 }
 
 #slider-section .overlay-bg {
-	background: url('../images/slider/back11.jpg') no-repeat center center;
+	background: url('../images/slider/back21.jpg ') no-repeat center center;
 	background-size: cover;
 }
 
@@ -721,7 +721,7 @@ h6 p {
 	left: 0;
 	bottom: 0;
 	right: 0;
-	background-color: rgba(100, 200, 243, 0.25);
+	background-color: rgba(33, 46, 51, 0.56);
 }
 
 .main-slider .slider-content {
@@ -826,7 +826,7 @@ h6 p {
 }
 
 .ico {
-	color: #2d9cff;
+	color: #f7941d;
 	font-size:32px;
 }
 
@@ -1565,7 +1565,7 @@ h6 p {
 /*================Contact us==============*/
 
 #contact-us {
-	background-color: #f7f7f7;
+	background-color: #f5f8ff;
 }
 
 .contact-content .contact-info {
@@ -1637,7 +1637,7 @@ h6 p {
 }
 
 #footer-bottom {
-	background-color: #0d0d0e;
+	background-color: #1d2c4a;
 	color: #fff;
 	padding: 30px 0 30px;
 	font-weight: 300;
@@ -1659,7 +1659,7 @@ h6 p {
 }
 
 .bg-card {
-	background: #f7f7f7;
+	background: #f5f8ff;
 	padding: 15px;
 	margin-bottom: 15px;
 }
