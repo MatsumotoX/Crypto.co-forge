@@ -37,7 +37,7 @@
                   </div>
 
                   <div class="form-group">
-                    <input type="text" name="MERGE3" id="MERGE3" class="form-control" required="required" placeholder="Position">
+                    <input type="text" name="MERGE4" id="MERGE4" class="form-control" required="required" placeholder="Position">
                   </div>
 
                   <div class="form-group">
@@ -45,7 +45,7 @@
                   </div>
 
                   <div class="form-group">
-                    <input type="tel" name="MERGE4" id="MERGE4" class="form-control" placeholder="Phone Number">
+                    <input type="tel" name="MERGE3" id="MERGE3" class="form-control" placeholder="Phone Number">
                   </div>
                   <div class="form-group">
                     <button type="submit" class="btn btn-primary3">Subscribe</button>
