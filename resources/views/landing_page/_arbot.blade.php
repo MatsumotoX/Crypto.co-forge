@@ -1,6 +1,6 @@
 
   <div id="arbot">
-      <div id="ourico" class="col-sm-10 col-sm-offset-1">
+    <div id="ourico" class="col-sm-10 col-sm-offset-1">
           <div class="register-section2">
             <div class="title">Our
               <span class="ico">CryptovationX</span> Projects</div>
@@ -11,14 +11,16 @@
               </a>
             </p>
           </div>
-      </div>
+    </div>
 
+<div class="backarbot" style="background: linear-gradient(to top left, #fff 10%, #fff 60%, #f0f4ff 50%, #f0f4ff 100%);">
+  <div class="backarbot" style="background: linear-gradient(to bottom right, #fff 10%, #fff 60%, #f0f4ff 50%, #f0f4ff 100%);">
     <div class="container" >
       <div class="padding contact-content text-center">
         <div class="row section-title">
           <div class="col-sm-10 col-sm-offset-1 arbot-version">
-            <h1 class="pitch-section-title" style="color: #f7941d;">Arbot Robo-advisory</h1>
-            <p class="textblue" style="color: white; font-size: 19px;">(Version 2.0 Beta)</p>
+            <h1 class="pitch-section-title" style="color: #f7941d; margin-bottom:0px;">Arbot Robo-advisory</h1>
+            <p class="textblue" style="font-size: 19px;">(Version 2.0 Beta)</p>
             <p class="textblue" style="font-size: 19px;">Robo-advisory Investment that uses quantitative analysis to recommend you the most profitable with low risk trading
               opportunities in cryptocurrencies.</p>
             <br>
@@ -28,6 +30,8 @@
         </div>
       </div>
     </div>
+  </div>
+</div>
 
   <div id="description" class="parallax-section">
     <div class="description-section padding">
@@ -42,3 +46,4 @@
 
     </div>
   </div>
+
