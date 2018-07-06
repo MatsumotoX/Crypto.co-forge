@@ -22,7 +22,7 @@ jQuery(function($) {
     } else {
       $("#navbar-custom").removeClass("navbar-bg-toggle");
       $(".navfont").removeClass("navfont-toggle");
-      $(".navbar-brand>img").attr("src", "images/compLogo-black.png");
+      $(".navbar-brand>img").attr("src", "images/cryptologo.png");
     }
   });
 

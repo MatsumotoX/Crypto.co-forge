@@ -5,7 +5,7 @@
       <div class="row main-slider">
         <div class="col-sm-6">
           <div class="slider-content">
-            <h2 class="pitch-section-title robo-top" style="font-size:192%;">Robo-advisory Investment</h2>
+            <h2 class="pitch-section-title2 robo-top" style="font-size:192%;">Robo-advisory Investment</h2>
             <h1 class="header-text cryptovation" style="color: #00b4ff8c;">
               Cryptovation
             </h1>

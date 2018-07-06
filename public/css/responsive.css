@@ -234,6 +234,10 @@
 		padding-top: 20px;
 		padding-bottom: 35px;
 	}
+
+	.pitch-section-title2 {
+		font-size: 28px !important;
+	}
 	.nav-padding {
 		margin-bottom: 0px;
 		padding-left: 10px;
@@ -261,6 +265,10 @@
 	}
 	.product-container {
 		max-height: 500px;
+	}
+
+	.main-slider .slider-content h1 {
+		margin-left: 35px;
 	}
 	h2 {
 		font-size: 20px;
