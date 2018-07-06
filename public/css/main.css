@@ -60,8 +60,16 @@ body {
 
 #navigation,
 .navfont {
-	color:white !important;
-	font-weight: 300;
+	font-family: 'Open Sans', sans-serif;
+	color: back !important;
+	font-weight: 400;
+	font-size: 1.7rem;
+}
+
+.navfont-toggle {
+	font-family: 'Open Sans', sans-serif;
+	color: black !important;
+	font-weight: 400;
 	font-size: 1.7rem;
 }
 
@@ -93,7 +101,6 @@ body {
 }
 
 .navbar-nav li a {
-	color: rgb(0, 0, 0);
 	line-height: 28px;
 	margin-left: 40px;
 	text-decoration: aqua;
@@ -113,7 +120,8 @@ body {
 }
 
 .navbar-bg-toggle {
-	background-color: #1d2c4a;
+	background-color: #fff;
+	box-shadow: 0 3px 5px rgba(57, 63, 72, .3);
 }
 
 /*================Popup==============*/
@@ -443,6 +451,15 @@ h6 p {
 	background: linear-gradient(to top, #00c2f3, #0096f2);
 	text-align: center;
 	position: relative;
+
+	display: inline-block;
+    background: #3241b0;
+    color: #fff;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: .1em;
+    transition: all 375ms ease-out;
 }
 
 .btn-primary2 {
@@ -467,16 +484,26 @@ h6 p {
 	font-weight: bolder;
 	color: #fff;
 	z-index: 1;
+
+	display: inline-block;
+    background: #3241b0;
+    color: #fff;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: .1em;
+    transition: all 375ms ease-out;
 }
 
 .btn-primary3 {
 	border: 0;
 	/* color:#000; */
-	background: linear-gradient(to top, #293d51, #0d0f12);
+	background: transparent;
 	text-transform: uppercase;
 	border-radius: 8px;
 	font-size: 16px;
 	font-weight: 3000;
+	border:2px solid white;
 	padding: 12px 27px 10px;
 	position: relative;
 	-webkit-transition: all 0.3s ease-in-out;
@@ -488,6 +515,15 @@ h6 p {
 	position: relative;
 	box-shadow: none;
 	z-index: 1;
+
+	display: inline-block;
+    background: transparent;
+    color: #fff;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: .1em;
+    transition: all 375ms ease-out;
 }
 
 .btn-primary:before,
@@ -605,28 +641,30 @@ h6 p {
 
 .register-section {
 	padding: 30px 60px;
-	background: linear-gradient(to top, #00c2f3b2, #0069f2);
+	background: linear-gradient(to top, #00c2f3, #0069f2);
 	color: #fff;
 	border-radius: 20px;
 	margin-bottom: 60px;
 	margin-top: 30px;
+	box-shadow: 0 30px 120px rgba(5,23,39,.4);
 }
 
 .register-section2 {
-	background-color: #324263;
+	background-color: white;
 	background-size: cover;
-	background: linear-gradient(to bottom, #1d2c4a, #41728a);
-	/* border: 2px solid #52e0ff; */
+	/* background: linear-gradient(to bottom, #1d2c4a, #41728a); */
+	border: 2px solid  black;
 	border-radius: 20px;
 	padding-left: 30px;
 	padding-right: 30px;
 	margin-bottom: 40px;
 	padding-bottom: 30px;
 	padding-top: 30px;
+	box-shadow: 0 30px 120px rgba(5,23,39,.4);
 }
 
 .register-section3 {
-	border: 4px solid #44b6ef;
+	border: 2px solid black;
 	border-radius: 20px;
 	padding-left: 30px;
 	padding-right: 30px;
@@ -670,8 +708,6 @@ h6 p {
 }
 
 .register-section .btn-primary3 {
-	background-color: #000000;
-	color: #fff;
 	width: 100%;
 	font-size: 15px;
 }
@@ -701,6 +737,7 @@ h6 p {
 	padding-top: 60px;
 }
 
+
 #slider-section,
 #home-section {
 	background-repeat: no-repeat;
@@ -710,7 +747,7 @@ h6 p {
 }
 
 #slider-section .overlay-bg {
-	background: url('../images/slider/back21.jpg ') no-repeat center center;
+	background: url('../images/slider/backsvg.png ') no-repeat center center;
 	background-size: cover;
 }
 
@@ -721,11 +758,11 @@ h6 p {
 	left: 0;
 	bottom: 0;
 	right: 0;
-	background-color: rgba(33, 46, 51, 0.56);
+	background-color: rgba(33, 46, 51, 0);
 }
 
 .main-slider .slider-content {
-	margin-top: 200px;
+	margin-top: 165px;
 	font-size: 20px;
 	font-weight: 300;
 }
@@ -734,7 +771,8 @@ h6 p {
 	font-size: 58px;
 	font-weight: 400;
 	text-transform: initial;
-	margin-bottom: 45px;
+	margin-bottom: 35px;
+	margin-left: 50px;
 }
 
 .main-slider .slider-content h1 span {
@@ -809,10 +847,9 @@ h6 p {
 
 .title {
 	font-size: 30px;
-	color: #fff;
-	text-transform: uppercase;
+	color: black;
 	margin-bottom: 30px;
-	font-weight: 700;
+	font-weight: 400;
 	text-align: center;
 }
 
@@ -826,14 +863,15 @@ h6 p {
 }
 
 .ico {
-	color: #f7941d;
-	font-size:32px;
+	color: #0c2859;
+	font-size: 32px;
 }
 
 .weuse {
 	text-align: center;
 	max-width: 455px;
 	line-height: 32px;
+	color: black;
 }
 
 .textblue {
@@ -872,7 +910,7 @@ h6 p {
 	font-size: 18px;
 	font-weight: 900;
 	letter-spacing: 1px;
-	color: #fff;
+	color: black;
 	padding: 20px 43px 19px;
 	display: inline-block;
 	align-items: center;
@@ -883,9 +921,18 @@ h6 p {
 	margin: 0 auto;
 	margin-top: 40px;
 	text-decoration: none;
-	background: linear-gradient(to top, #00c2f3, #0096f2);
+	background: transparent;
 	text-align: center;
 	position: relative;
+
+	display: inline-block;
+    background: #3241b0;
+    color: #fff;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: .1em;
+    transition: all 375ms ease-out;
 }
 
 .title21 {
@@ -1039,7 +1086,7 @@ h6 p {
 /*=========course-description==========*/
 
 #description {
-	background-color: #44b6ef;
+	background-color:#f0f4ff;
 	background-image: url(../images/others/29893208_10214028626602702_376217561_o.png);
 	background-position: right top;
 	background-position-x: 580px;
@@ -1047,7 +1094,7 @@ h6 p {
 	color: #fff;
 	z-index: -1;
 	background-size: contain;
-	margin-top:-10px;
+	margin-top: -10px;
 }
 
 .description-section {
@@ -1137,7 +1184,7 @@ h6 p {
 }
 
 .product-container {
-	background: #44b6ef;
+	background: #f0f4ff;
 	max-height: 500px;
 }
 
@@ -1566,7 +1613,8 @@ h6 p {
 /*================Contact us==============*/
 
 #contact-us {
-	background-color: #f5f8ff;
+	background-color: #edeff0;
+	color: black;
 }
 
 .contact-content .contact-info {
@@ -1638,7 +1686,7 @@ h6 p {
 }
 
 #footer-bottom {
-	background-color: #1d2c4a;
+	background-color: #051727;
 	color: #fff;
 	padding: 30px 0 30px;
 	font-weight: 300;

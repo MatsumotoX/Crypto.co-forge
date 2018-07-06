@@ -4,7 +4,7 @@
           <div class="register-section2">
             <div class="title">Our
               <span class="ico">CryptovationX</span> Projects</div>
-            <p class="textblue" style="color:white;">CryptovationX is Robo-advisory Platform for Cryptoasset Investment and ‘Wealth for All’ Initiative
+            <p class="textblue" style="color:black;">CryptovationX is Robo-advisory Platform for Cryptoasset Investment and ‘Wealth for All’ Initiative.
               <br>
               <a href="https://cryptovationx.io/" class="crypto-btn" target="_blank">
                   View Project
@@ -13,8 +13,7 @@
           </div>
     </div>
 
-<div class="backarbot" style="background: linear-gradient(to top left, #fff 10%, #fff 60%, #f0f4ff 50%, #f0f4ff 100%);">
-  <div class="backarbot" style="background: linear-gradient(to bottom right, #fff 10%, #fff 60%, #f0f4ff 50%, #f0f4ff 100%);">
+  <div >
     <div class="container" >
       <div class="padding contact-content text-center">
         <div class="row section-title">
@@ -31,15 +30,14 @@
       </div>
     </div>
   </div>
-</div>
 
   <div id="description" class="parallax-section">
     <div class="description-section padding">
       <div id="market-price" class="container">
         <div class="row">
           <div class="col-sm-5 section-title">
-            <h1 class="title21" style="color: white">Market Price</h1>
-            <p class="text" style="color: white; font-size: 16px;">we update you the real time price of different cryptocurrencies across different markets</p>
+            <h1 class="title21" style="color: black">Market Price</h1>
+            <p class="text" style="color: black; font-size: 16px;">We update you the real time price of different cryptocurrencies across different markets.</p>
           </div>
         </div>
       </div>

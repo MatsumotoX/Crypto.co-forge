@@ -2,8 +2,8 @@
     <div class="container-fluid">
       <!-- Brand and toggle get grouped for better mobile display -->
       <ul>
-        <a class="navbar-brand" href="#">
-          <img alt="Brand" src="images/cryptologo.png" height="40">
+        <a id="navbrand" class="navbar-brand" href="#">
+          <img alt="Brand" src="images/compLogo-black.png" height="40">
         </a>
       </ul>
       <div class="navbar-header">
@@ -30,9 +30,6 @@
           </li>
           <li>
             <a class="navfont" href="https://arbot.cryptovation.co">Arbot</a>
-          </li>
-          <li>
-            <a class="navfont" href="#oneway">One-way Table</a>
           </li>
           <li>
             <a class="navfont" href="#instructor">Team</a>

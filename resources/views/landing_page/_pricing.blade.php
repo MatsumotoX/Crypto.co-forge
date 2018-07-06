@@ -5,12 +5,12 @@
           <div class="col-xs-6 col-md-3 text-center ">
             <div class="bg-card">
               <br>
-              <a target="_blank" href="https://bx.in.th">
+              <a target="_blank" href="https://bx.in.th" style="text-decoration: none;">
                 <img class="logo2" src="images/bxlogo2.png">
               </a>
               <br>
               <br>
-              <p>The price is influenced by Thai user</p>
+              <p>The price is influenced by Thai user.</p>
               <br>
               <a href="https://medium.com/search?q=cryptovation-bxinth" class="btn btn-primary" target="_blank"> How To Use</a>
             </div>
@@ -18,7 +18,7 @@
           <div class="col-xs-6 col-md-3 text-center ">
             <div class="bg-card">
               <br>
-              <a target="_blank" href="https://kraken.com">
+              <a target="_blank" href="https://kraken.com" style="text-decoration: none;"> 
                 <img class="logo2" src="images/krakenlogo2.png">
               </a>
               <br>
@@ -31,7 +31,7 @@
           <div class="col-xs-6 col-md-3 text-center ">
             <div class="bg-card">
               <br>
-              <a target="_blank" href="https://coinone.co.kr">
+              <a target="_blank" href="https://coinone.co.kr" style="text-decoration: none;">
                 <img class="logo2" src="images/coinonelogo2.png">
               </a>
               <br>
@@ -44,7 +44,7 @@
           <div class="col-xs-6 col-md-3 text-center ">
             <div class="bg-card">
               <br>
-              <a target="_blank" href="https://poloniex.com/login">
+              <a target="_blank" href="https://poloniex.com/login" style="text-decoration: none;">
                 <img class="logo2" src="images/poloniexlogo2.png">
               </a>
               <br>

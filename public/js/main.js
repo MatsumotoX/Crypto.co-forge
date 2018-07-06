@@ -17,8 +17,12 @@ jQuery(function($) {
     var scroll = $(window).scrollTop();
     if (scroll > 0) {
       $("#navbar-custom").addClass("navbar-bg-toggle");
+      $(".navfont").addClass("navfont-toggle");
+      $(".navbar-brand>img").attr("src", "images/compLogo-black.png");
     } else {
       $("#navbar-custom").removeClass("navbar-bg-toggle");
+      $(".navfont").removeClass("navfont-toggle");
+      $(".navbar-brand>img").attr("src", "images/compLogo-black.png");
     }
   });
 

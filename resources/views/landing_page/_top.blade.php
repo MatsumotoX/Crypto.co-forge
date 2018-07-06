@@ -1,16 +1,15 @@
 
   <div id="slider-section">
-    <div class="overlay-bg"></div>
-    <div class="container">
+  <div class="overlay-bg"></div>
+    <div class="container">   
       <div class="row main-slider">
         <div class="col-sm-6">
           <div class="slider-content">
             <h2 class="pitch-section-title robo-top" style="font-size:192%;">Robo-advisory Investment</h2>
-            <h1 class="header-text cryptovation">
-              CRYPTO
-              <span style="color: #0077ee;">VATION</span>
+            <h1 class="header-text cryptovation" style="color: #00b4ff8c;">
+              Cryptovation
             </h1>
-            <p class="weuse ">we uses the quantitative analysis to recommend you the most profitable strategy with low risk trading opportunities in
+            <p class="weuse ">We uses the quantitative analysis to recommend you the most profitable strategy with low risk trading opportunities in
               cryptocurrencies.
           </div>
         </div>
@@ -51,7 +50,7 @@
                     <button type="submit" class="btn btn-primary3">Subscribe</button>
                     <br>
                     <br>
-                    <p style="text-align: center">By clicking "SUBSCRIBE", you agree to our
+                    <p style="text-align: left">By clicking "SUBSCRIBE", you agree to our
                       <a href="{{ action('PagesController@getTerm') }}">terms of service</a> and
                       <a href="{{ action('PagesController@getPrivacy') }}">privacy policy.</a> We’ll occasionally send you account related emails.</p>
                   </div>
