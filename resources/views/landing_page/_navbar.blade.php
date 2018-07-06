@@ -26,9 +26,6 @@
 
         <ul class="nav navbar-nav navbar-right">
           <li>
-            <a class="navfont" href="#ourico">ICO</a>
-          </li>
-          <li>
             <a class="navfont" href="https://arbot.cryptovation.co">Arbot</a>
           </li>
           <li>

@@ -3,7 +3,9 @@
       <div class="padding contact-content text-center">
         <div class="row section-title">
           <div class="col-sm-8 col-sm-offset-2">
-            <h1 class="pitch-section-title">Features</h1>
+            <h1 class="pitch-section-title" style="
+    margin-top: 0px;
+">Features</h1>
           </div>
         </div>
         <div class="row">

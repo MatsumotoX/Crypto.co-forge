@@ -417,7 +417,7 @@ h6 p {
 .padding {
 	padding: 15px 10px 15px;
 	margin-top: 10px;
-	margin-bottom: 10px;
+	margin-bottom: 15px;
 }
 
 .section-title {
@@ -429,7 +429,7 @@ h6 p {
 }
 
 .section-title h1 {
-	margin-top: 0px;
+	margin-top: 50px;
 	margin-bottom: 2s0px;
 }
 
@@ -448,18 +448,16 @@ h6 p {
 	border-radius: 8px;
 	margin: 0 auto;
 	text-decoration: none;
-	background: linear-gradient(to top, #00c2f3, #0096f2);
 	text-align: center;
 	position: relative;
-
 	display: inline-block;
-    background: #3241b0;
-    color: #fff;
-    border-radius: 4px;
-    font-size: 16px;
-    font-weight: 700;
-    letter-spacing: .1em;
-    transition: all 375ms ease-out;
+	background: #3274a9;
+	color: #fff;
+	border-radius: 4px;
+	font-size: 16px;
+	font-weight: 700;
+	letter-spacing: .1em;
+	transition: all 375ms ease-out;
 }
 
 .btn-primary2 {
@@ -484,15 +482,14 @@ h6 p {
 	font-weight: bolder;
 	color: #fff;
 	z-index: 1;
-
 	display: inline-block;
-    background: #3241b0;
-    color: #fff;
-    border-radius: 4px;
-    font-size: 16px;
-    font-weight: 700;
-    letter-spacing: .1em;
-    transition: all 375ms ease-out;
+	background: #3241b0;
+	color: #fff;
+	border-radius: 4px;
+	font-size: 16px;
+	font-weight: 700;
+	letter-spacing: .1em;
+	transition: all 375ms ease-out;
 }
 
 .btn-primary3 {
@@ -503,7 +500,7 @@ h6 p {
 	border-radius: 8px;
 	font-size: 16px;
 	font-weight: 3000;
-	border:2px solid white;
+	border: 2px solid white;
 	padding: 12px 27px 10px;
 	position: relative;
 	-webkit-transition: all 0.3s ease-in-out;
@@ -515,15 +512,14 @@ h6 p {
 	position: relative;
 	box-shadow: none;
 	z-index: 1;
-
 	display: inline-block;
-    background: transparent;
-    color: #fff;
-    border-radius: 4px;
-    font-size: 16px;
-    font-weight: 700;
-    letter-spacing: .1em;
-    transition: all 375ms ease-out;
+	background: transparent;
+	color: #fff;
+	border-radius: 4px;
+	font-size: 16px;
+	font-weight: 700;
+	letter-spacing: .1em;
+	transition: all 375ms ease-out;
 }
 
 .btn-primary:before,
@@ -646,21 +642,21 @@ h6 p {
 	border-radius: 20px;
 	margin-bottom: 60px;
 	margin-top: 30px;
-	box-shadow: 0 30px 120px rgba(5,23,39,.4);
+	box-shadow: 0 30px 120px rgba(5, 23, 39, .4);
 }
 
 .register-section2 {
 	background-color: white;
 	background-size: cover;
 	/* background: linear-gradient(to bottom, #1d2c4a, #41728a); */
-	border: 2px solid  black;
+	border: 2px solid black;
 	border-radius: 20px;
 	padding-left: 30px;
 	padding-right: 30px;
 	margin-bottom: 40px;
 	padding-bottom: 30px;
 	padding-top: 30px;
-	box-shadow: 0 30px 120px rgba(5,23,39,.4);
+	box-shadow: 0 30px 120px rgba(5, 23, 39, .4);
 }
 
 .register-section3 {
@@ -736,7 +732,6 @@ h6 p {
 #slider-section {
 	padding-top: 60px;
 }
-
 
 #slider-section,
 #home-section {
@@ -863,7 +858,7 @@ h6 p {
 }
 
 .ico {
-	color: #2b4ead;
+	color: #46b9ef;
 	font-size: 32px;
 }
 
@@ -912,27 +907,26 @@ h6 p {
 	letter-spacing: 1px;
 	color: black;
 	padding: 20px 43px 19px;
+	margin: 0 auto;
+	margin-top: 40px;
 	display: inline-block;
 	align-items: center;
 	position: relative;
 	width: 260px;
 	box-sizing: border-box;
 	border-radius: 8px;
-	margin: 0 auto;
-	margin-top: 40px;
 	text-decoration: none;
 	background: transparent;
 	text-align: center;
 	position: relative;
-
 	display: inline-block;
-    background: #3241b0;
-    color: #fff;
-    border-radius: 4px;
-    font-size: 16px;
-    font-weight: 700;
-    letter-spacing: .1em;
-    transition: all 375ms ease-out;
+	background: #3241b0;
+	color: #fff;
+	border-radius: 4px;
+	font-size: 16px;
+	font-weight: 700;
+	letter-spacing: .1em;
+	transition: all 375ms ease-out;
 }
 
 .title21 {
@@ -998,7 +992,7 @@ h6 p {
 	background-color: #ffffff;
 	z-index: 1;
 	color: rgba(29, 28, 28, 0.829);
-	margin-top: 50px;
+	margin-top: 80px;
 }
 
 #onewayback {
@@ -1086,7 +1080,7 @@ h6 p {
 /*=========course-description==========*/
 
 #description {
-	background-color:#f0f4ff;
+	background-color: #f0f4ff;
 	background-image: url(../images/others/29893208_10214028626602702_376217561_o.png);
 	background-position: right top;
 	background-position-x: 580px;
