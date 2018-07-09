@@ -637,7 +637,8 @@ h6 p {
 
 .register-section {
 	padding: 30px 60px;
-	background: linear-gradient(to top, #00c2f3, #0069f2);
+	background-color: #00aaffd6;
+	/* background: linear-gradient(to top, #00c2f3, #0069f2); */
 	color: #fff;
 	border-radius: 20px;
 	margin-bottom: 60px;
@@ -649,7 +650,7 @@ h6 p {
 	background-color: white;
 	background-size: cover;
 	/* background: linear-gradient(to bottom, #1d2c4a, #41728a); */
-	border: 2px solid black;
+	/* border: 2px solid black; */
 	border-radius: 20px;
 	padding-left: 30px;
 	padding-right: 30px;
