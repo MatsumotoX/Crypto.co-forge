@@ -23,12 +23,12 @@
     <div class="col-sm-5">
       <div class="product-info">
         <!-- <h1>How To Start?</h1> -->
-        <div class="title22 howto" style="color: black;">How to Start ? </div>
+        <div class="title22 howtostart" style="color: black;">How to Start ? </div>
         <br>
         <br>
-        <p class="textblue" style="color: black; font-size: 17px;">We will guide you the steps to register, trade and invest each markets.</p>
+        <p class="howto" style="color: black; font-size: 17px; ">We will guide you the steps to register, trade and invest each markets.</p>
         <br>
-        <p class="textblue" style="color: black;font-size: 17px;">We collect all the ‘How to’ register, trade and invest in different markets for you in one website.</p>
+        <p class="howto" style="color: black;font-size: 17px; ">We collect all the ‘How to’ register, trade and invest in different markets for you in one website.</p>
       </div>
     </div>
     <div class="col-sm-6 col-sm-offset-1">

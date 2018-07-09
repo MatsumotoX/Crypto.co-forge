@@ -768,7 +768,6 @@ h6 p {
 	font-weight: 400;
 	text-transform: initial;
 	margin-bottom: 35px;
-	margin-left: 50px;
 }
 
 .main-slider .slider-content h1 span {
@@ -864,14 +863,24 @@ h6 p {
 }
 
 .weuse {
-	text-align: center;
+	text-align: left;
 	max-width: 455px;
 	line-height: 32px;
 	color: white;
 }
 
+
 .textblue {
 	text-align: center;
+	font-size: 20px;
+	color: #2d9cff;
+	margin-bottom: 0px;
+	line-height: 30px;
+	font-weight: 300;
+}
+
+.howto {
+	text-align: left;
 	font-size: 20px;
 	color: #2d9cff;
 	margin-bottom: 0px;
