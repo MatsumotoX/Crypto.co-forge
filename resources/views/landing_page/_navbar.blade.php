@@ -3,7 +3,7 @@
       <!-- Brand and toggle get grouped for better mobile display -->
       <ul>
         <a id="navbrand" class="navbar-brand" href="#">
-          <img alt="Brand" src="images/cryptologo.png" height="40">
+          <img alt="Brand" src="images/compLogo-black2.png" height="40">
         </a>
       </ul>
       <div class="navbar-header">

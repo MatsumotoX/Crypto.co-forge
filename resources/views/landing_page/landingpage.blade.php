@@ -37,17 +37,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     @include('landing_page._top')
 
-    @include('landing_page._arbot')
-    
-    @include('landing_page._features')
-
     @include('landing_page._product')
 
+    @include('landing_page._arbot')
+
     @include('landing_page._pricing')
-
-    @include('landing_page._team')
-
-    @include('landing_page._contact')
 
     @include('landing_page._footer')
 

@@ -75,6 +75,10 @@
 		padding-left: 60px;
 	}
 
+	.bg-card{
+		height: 200px;
+	}
+
 }
 
 @media (min-width: 1125px) and (max-width: 1138px) {
@@ -99,6 +103,11 @@
 	#arbot {
 		height: 340px;
 	}
+
+	.bg-card{
+		height: 220px;
+	}
+	
 	.padding-md {
 		padding-top: 130px;
 	}
@@ -223,6 +232,11 @@
 		padding-left: 5px;
 		padding-right: 5px;
 	}
+
+	.bg-card{
+		height: 200px;
+	}
+
 	.testHover {
 		margin-top: 1.5rem;
 		height: 3.8rem;
@@ -361,6 +375,10 @@
 	}
 	.modal-content {
 		background-image: url(../images/popup/Background2.png);
+	}
+
+	.bg-card{
+		height: 200px;
 	}
 	
 	.close {
@@ -631,6 +649,11 @@
 	.product-info {
 		margin-left: 10px;
 	}
+
+	.bg-card{
+		height: 200px;
+	}
+
 	/* .plans .col-sm-1 {width: 8.33%;}
     .plans .col-sm-3 {width: 25%;}
     .plans .col-sm-4 {width: 33.33%;}
@@ -659,6 +682,10 @@
 	}
 	.howtostart {
 		margin-top: 80px;
+	}
+
+	.bg-card{
+		height: 220px;
 	}
 }
 

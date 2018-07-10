@@ -59,6 +59,22 @@
           </div>
         </div>
 
+        <div id="ourico" class="col-sm-10 col-sm-offset-1">
+          <div class="register-section2">
+            <div class="title">Our
+              <span class="ico">CryptovationX</span> Projects</div>
+            <p class="textblue" style="color:black;">CryptovationX is Robo-advisory Platform for Cryptoasset Investment and ‘Wealth for All’ Initiative.
+              <br>
+              <a href="https://cryptovationx.io/" class="btn btn-primary" target="_blank" style="
+              padding: 20px 43px 19px;
+            	margin: 0 auto;
+	            margin-top: 40px;">
+                  View Project
+              </a>
+            </p>
+          </div>
+    </div>
+
         
 
 

@@ -4,7 +4,7 @@
 
         <div class="row section-title">
           <div class="col-sm-8 col-sm-offset-2">
-            <h1 class="pitch-section-title" style="font-weight:300;">Contact Us</h1>
+            <h1 class="pitch-section-title">Contact Us</h1>
           </div>
         </div>
         
