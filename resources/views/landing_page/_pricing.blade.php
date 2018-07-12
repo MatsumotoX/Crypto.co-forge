@@ -1,5 +1,8 @@
 
     <div id="pricing-section" class="parallax-section">
+      <div class="howtostart">
+      <h1 class="pitch-section-title">How to Start?</h1>
+      </div>
       <div class="">
         <div class="row">
           <div class="col-xs-6 col-md-3 text-center ">

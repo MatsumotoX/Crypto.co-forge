@@ -37,8 +37,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     @include('landing_page._top')
 
-    @include('landing_page._product')
-
     @include('landing_page._arbot')
 
     @include('landing_page._pricing')
