@@ -19,7 +19,7 @@
               <span class="ico">CryptovationX</span> Projects</div>
             <p class="textblue" style="color:black;">CryptovationX also aims to assist in solving socio-economic problems by implementing a corporate social responsibility called ‘Wealth for All’ Initiative
               <br>
-              <a href="https://cryptovationx.io/" class="btn btn-primary" target="_blank" style="
+              <a id="viewproject" href="https://cryptovationx.io/" class="btn btn-primary" target="_blank" style="
               padding: 20px 43px 19px;
             	margin: 0 auto;
 	            margin-top: 40px;">
@@ -64,7 +64,7 @@
                     <input type="tel" name="MERGE3" id="MERGE3" class="form-control" placeholder="Phone Number">
                   </div>
                   <div class="form-group">
-                    <button type="submit" class="btn btn-primary3">Subscribe</button>
+                    <button id="subscribe" type="submit" class="btn btn-primary3">Subscribe</button>
                     <br>
                     <br>
                     <p style="text-align: left">By clicking "SUBSCRIBE", you agree to our

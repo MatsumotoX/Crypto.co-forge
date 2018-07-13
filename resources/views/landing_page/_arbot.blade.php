@@ -12,7 +12,7 @@
             <p class="textblue" >Robo-advisory Investment that uses quantitative analysis to recommend you the most profitable with low risk trading
               opportunities in cryptocurrencies.</p>
             <br>
-            <a href="https://arbot.cryptovation.co" class="btn btn-primary" target="_blank" style="
+            <a id="trynow" href="https://arbot.cryptovation.co" class="btn btn-primary" target="_blank" style="
               padding: 20px 43px 19px;
               margin: 0 auto;
               "> Try Now</a>
