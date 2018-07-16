@@ -22,7 +22,7 @@
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Cryptovation | The Best Robo-advisor for Blockchain Investment" />
   <meta property="og:description" content="The Best One-Stop-Solution Robo-advisor for Blockchain Investment" />
-  <meta property="og:image" content="images/favicon.ico" />
+  <meta property="og:image" content="images/favicon.png" />
   <meta property="fb:app_id" content="174416736619287" />
   <meta name="description" content="">
   <meta name="author" content="">
