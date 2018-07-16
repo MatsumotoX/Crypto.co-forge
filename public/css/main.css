@@ -145,7 +145,7 @@ body {
 	width: 83.33%;
 	padding-bottom: 20px;
 	background-repeat: no-repeat;
-	background-image: url(../images/popup/Background.png);
+	background-image: url(https://s3-ap-southeast-1.amazonaws.com/cryptovation/blog/public/images/popup/Background.png);
 	background-size: 100%;
 	border-radius: 30px;
 	border: 0;
@@ -744,7 +744,7 @@ h6 p {
 }
 
 #slider-section .overlay-bg {
-	background: url('../images/slider/1.jpg ') no-repeat center center;
+	background: url(https://s3-ap-southeast-1.amazonaws.com/cryptovation/blog/public/images/slider/1.jpg) no-repeat center center;
 	background-size: cover;
 }
 
@@ -1093,7 +1093,7 @@ h6 p {
 
 #description {
 	background-color: #0678AF;
-	background-image: url(../images/others/29893208_10214028626602702_376217561_o.png);
+	background-image: url(https://s3-ap-southeast-1.amazonaws.com/cryptovation/blog/public/images/others/29893208_10214028626602702_376217561_o.png);
 	background-position: right top;
 	background-position-x: 580px;
 	margin-right: 200px;
