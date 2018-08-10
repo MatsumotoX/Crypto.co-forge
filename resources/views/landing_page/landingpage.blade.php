@@ -39,8 +39,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     @include('landing_page._arbot')
 
-    @include('landing_page._liveprice')
-
     @include('landing_page._pricing')
 
     @include('landing_page._footer')
