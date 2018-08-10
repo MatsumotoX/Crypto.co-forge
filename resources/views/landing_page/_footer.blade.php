@@ -56,7 +56,7 @@
 
 				<div>
 					<i class="fa fa-phone"></i>
-					<p>020 511 882</p>
+					<p>(+66) 2051 1882</p>
 				</div>
 
 				<div>

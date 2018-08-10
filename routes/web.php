@@ -17,5 +17,7 @@ Route::get('/terms-of-service', 'PagesController@getTerm');
 
 Route::get('/privacy-policy', 'PagesController@getPrivacy');
 
+Route::get('liveprices', 'LivePrice\LivePriceController@compileOrder');
+
 
 
